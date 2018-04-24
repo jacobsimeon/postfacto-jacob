@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/postfacto.iml" filepath="$PROJECT_DIR$/.idea/modules/postfacto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/postfacto_main.iml" filepath="$PROJECT_DIR$/.idea/modules/postfacto_main.iml" group="postfacto" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/postfacto_test.iml" filepath="$PROJECT_DIR$/.idea/modules/postfacto_test.iml" group="postfacto" />
+    </modules>
+  </component>
+</project>
